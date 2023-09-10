@@ -10,4 +10,4 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/python-007396?style=flat&logo=python&logoColor=white" />
 </div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2youngje&show_icons=true&theme=radical)
+ (https://github-readme-stats.vercel.app/api?username=2youngje&show_icons=true&theme=radical)
