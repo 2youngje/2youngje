@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=machine_learning&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=2youngje_github&fontSize=90" />
 </div>
 	<div align=center>
 		<h2>🌱 welcome to my github 🌱</h2>
